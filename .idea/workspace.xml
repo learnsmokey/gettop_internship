@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/TMTN-32-Verify_Wishlist_Products" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88aad403-96b5-4ba5-a74a-3e0d8f0a9ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/steps/add_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature/tests/add_product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wishlist_page.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/app/application.py" />
+      <file url="file://$PROJECT_DIR$/pages/base_page.py" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Refresh-1-check-accessories-submenu" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/feature/steps/add_product.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="069849a2-5d13-4937-9582-1bd865261682" />
+  <component name="ProjectId" id="2BgFpp4kOjzspqll8AgLoMq0tGJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Behave.add_product.feature:Add and verify user sees correct product">
+    <configuration name="add_product.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="gettop_internship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/feature/tests/add_product.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_product.feature:Add and verify user sees correct product" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="gettop_internship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/feature/tests/add_product.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Add and verify user sees correct product" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_product.feature:Add products to wishlist, verify user can click on wishlist item and is taken to correct product page" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="gettop_internship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/feature/tests/add_product.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Add products to wishlist, verify user can click on wishlist item and is taken to correct product page" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_product.feature:Add products to wishlist,verify user can remove products and sees a confirmation message" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="gettop_internship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/feature/tests/add_product.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Add products to wishlist,verify user can remove products and sees a confirmation message" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_product.feature:User can see social logos to share wishlist items" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="gettop_internship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/feature/tests/add_product.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="User can see social logos to share wishlist items" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.add_product.feature:Add and verify user sees correct product" />
+        <item itemvalue="Behave.add_product.feature:Add products to wishlist,verify user can remove products and sees a confirmation message" />
+        <item itemvalue="Behave.add_product.feature" />
+        <item itemvalue="Behave.add_product.feature:User can see social logos to share wishlist items" />
+        <item itemvalue="Behave.add_product.feature:Add products to wishlist, verify user can click on wishlist item and is taken to correct product page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88aad403-96b5-4ba5-a74a-3e0d8f0a9ac0" name="Default Changelist" comment="" />
+      <created>1657320007079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657320007079</updated>
+      <workItem from="1657320008158" duration="1283000" />
+      <workItem from="1657379943111" duration="209000" />
+      <workItem from="1657542356437" duration="1181000" />
+      <workItem from="1657556990699" duration="27000" />
+      <workItem from="1657558758979" duration="7000" />
+      <workItem from="1657558837023" duration="1202000" />
+      <workItem from="1657560074299" duration="528000" />
+      <workItem from="1657560866196" duration="11909000" />
+      <workItem from="1657757895017" duration="1880000" />
+      <workItem from="1657824605054" duration="2401000" />
+      <workItem from="1657897014787" duration="2869000" />
+      <workItem from="1658251732716" duration="3920000" />
+      <workItem from="1658263667330" duration="19000" />
+      <workItem from="1658270763141" duration="2923000" />
+      <workItem from="1658335673601" duration="5488000" />
+      <workItem from="1658350337698" duration="1346000" />
+      <workItem from="1658351736088" duration="23809000" />
+      <workItem from="1658493226484" duration="738000" />
+      <workItem from="1658494952955" duration="1144000" />
+      <workItem from="1658496119116" duration="197000" />
+      <workItem from="1658496348859" duration="2200000" />
+      <workItem from="1658514929661" duration="6301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/TMTN-32-Verify_Wishlist_Products" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1658499511291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1658499511291" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1658499511291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1658499511291" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1658499511291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1658499511291" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1658499511291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1658499511291" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1658253571795">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1658253571795" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1658253571795">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1658253571795" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1658253571795">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1658253571795" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1658253571795">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1658253571795" />
+    <state x="277" y="53" key="SettingsEditor" timestamp="1658771887163">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1658771887163" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1657897471241">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1657897471241" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gettop_internship$get.coverage" NAME="openaccesories_submenu Coverage Results" MODIFIED="1657320537906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gettop_internship$add_product_feature_User_can_see_social_logos_to_share_wishlist_items.coverage" NAME="add_product.feature:User can see social logos to share wishlist items Coverage Results" MODIFIED="1658425739258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/gettop_internship$main_page.coverage" NAME="main_page Coverage Results" MODIFIED="1658253757063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/gettop_internship$add_product_feature_Add_and_verify_user_sees_correct_product.coverage" NAME="add_product.feature:Add and verify user sees correct product Coverage Results" MODIFIED="1658771970052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/gettop_internship$add_product_feature.coverage" NAME="add_product.feature Coverage Results" MODIFIED="1658426561668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/gettop_internship$openaccesories_submenu.coverage" NAME="openaccesories_submenu Coverage Results" MODIFIED="1657543349918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gettop_internship$add_product_feature_Add_products_to_wishlist_verify_user_can_remove_products_and_sees_a_confirmation_message.coverage" NAME="add_product.feature:Add products to wishlist,verify user can remove products and sees a confirmation message Coverage Results" MODIFIED="1658486466601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/gettop_internship$add_product_feature_Add_products_to_wishlist__verify_user_can_click_on_wishlist_item_and_is_taken_to_correct_product_page.coverage" NAME="add_product.feature:Add products to wishlist, verify user can click on wishlist item and is taken to correct product page Coverage Results" MODIFIED="1658425722364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
